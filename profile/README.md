@@ -1,6 +1,6 @@
 ## Hola👋 
 🙋‍♀️ Te enseñamos a programar en Dart y Flutter.    
-🌈 Guis de Contribucion: Estamos trabajando en la misma.  
+🌈 Guias de Contribución: Estamos trabajando en la misma.  
 👩‍💻 Recursos: Visita: [DartAndFlutter.ar](https://dartandflutter.ar)  
 🍿 Fun facts: Fanaticos de la Birra y el Fernet.  
 <!--

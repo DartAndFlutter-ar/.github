@@ -1,8 +1,5 @@
 ## Hola👋 
-🙋‍♀️ Te enseñamos a programar en Dart y Flutter.    
-🌈 Guias de Contribución: Estamos trabajando en la misma.  
-👩‍💻 Recursos: Visita: [DartAndFlutter.ar](https://dartandflutter.ar)  
-🍿 Fun facts: Fanaticos de la Birra y el Fernet.  
+La guía para desarrolladores de Dart y Flutter proporciona información y recursos esenciales para programadores que desean crear aplicaciones multiplataforma utilizando el lenguaje de programación Dart y el marco de trabajo Flutter.
 <!--
 
 **Here are some ideas to get you started:**
